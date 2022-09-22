@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501600293240",
+    "project_id": "system-traceability-322ef",
+    "storage_bucket": "system-traceability-322ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501600293240:android:ae83c21fb35b6b0fc1788d",
+        "android_client_info": {
+          "package_name": "com.example.system_traceability"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501600293240-o7pla5i303qr9i5o781ju19g2brqqqeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYix_HYMDPwlvJm8_CvvWrVqX32rMp2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501600293240-o7pla5i303qr9i5o781ju19g2brqqqeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

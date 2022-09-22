@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Manufacturer",
+      "img": "assets/manufacturer.png"
+    },
+    {
+      "title": "Distributor",
+      "img": "assets/distributor.png"
+    },
+    {
+      "title": "Pharmacy",
+      "img": "assets/pharmacist.png"
+    },
+    {
+      "title": "Consumer",
+      "img": "assets/consumer.png"
+    }
+]
